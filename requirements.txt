@@ -1,0 +1,12 @@
+pip install Pillow
+pip install yacs
+pip install PyYAML
+pip install portalocker
+pip install pycocotools
+pip install termcolor
+pip install torch torchvision
+pip install tabulate
+pip install cloudpickle
+pip install opencv-python
+pip install numpy
+pip install ops
