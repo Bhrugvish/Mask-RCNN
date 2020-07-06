@@ -1,4 +1,4 @@
-pip install Pillow
+detectron2pip install Pillow
 pip install yacs
 pip install PyYAML
 pip install portalocker
@@ -10,3 +10,4 @@ pip install cloudpickle
 pip install opencv-python
 pip install numpy
 pip install ops
+python -m pip install -e detectron2
